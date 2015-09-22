@@ -1,0 +1,6 @@
+[submodule "submodule-lib1"]
+	path = submodule-lib1
+	url = https://github.com/Ooblah/submodule-lib1.git
+[submodule "submodule-lib2"]
+	path = submodule-lib2
+	url = https://github.com/Ooblah/submodule-lib2.git
