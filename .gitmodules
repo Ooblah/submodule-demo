@@ -4,3 +4,6 @@
 [submodule "submodule-lib2"]
 	path = submodule-lib2
 	url = https://github.com/Ooblah/submodule-lib2.git
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/jimufan/submodule2.git
